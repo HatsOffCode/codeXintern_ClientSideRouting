@@ -7,7 +7,7 @@ function Header() {
   return (
     <div className='bg-black flex flex-row'>
       <div className='mx-4'>
-        <img src="/erBlackBg.png" alt="Logo" className='w-[70px] h-[70px] rounded-lg' />
+        <img src="erBlackBg.png" alt="Logo" className='w-[70px] h-[70px] rounded-lg' />
       </div>
       <div className='flex items-center justify-center flex-row text-lg hover:no-underline text-white font-bold'>
         <ul className='flex flex-row gap-5 my-1'>
